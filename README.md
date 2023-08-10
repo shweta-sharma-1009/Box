@@ -12,7 +12,7 @@ Used HTML class attribute is used to specify a class for an HTML element.
 Used The <div> tag defines a division or a section in an HTML document.
 Used <style> tag to define style information (CSS) for a document.
 Used button tag - The <button> tag defines a clickable button.
-Used Heading tag - the <h1> tags are used to define HTML headings. <h1>This is heading 1</h1>
+Used Heading tag - the <h1> tags are used to define HTML heading. <h1> tag is heading 1</h1>
 Used Ul and li tag - An unordered list, which defines defines an unordered (bulleted) list. Use the <ul> tag together with the <li> tag to create unordered lists.
 Used button tag - Use the <ul> tag together with the <li> tag to create unordered lists.
 Used class HTML class attribute - to specify a class for an HTML element.
